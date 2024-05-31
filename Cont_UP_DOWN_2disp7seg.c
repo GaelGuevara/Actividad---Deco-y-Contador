@@ -1,5 +1,3 @@
-#include "deg7seg.h"
-#include "T_Matricial.h"
 #include "MKL25Z4.h"
 #define btnPin 32
 #define output 4
